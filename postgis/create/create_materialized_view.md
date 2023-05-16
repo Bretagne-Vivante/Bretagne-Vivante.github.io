@@ -6,4 +6,24 @@ description: ""
 parent: sql
 ---
 
-# create materialized view
+# create materialized  view
+
+```
+Create materialized  view  nom_schema.v_nom_vue
+as
+(
+    select indicateur 
+    from nom_schema.nom_table
+)
+WITH DATA ;
+
+```
+## Les options
+
+---------
+## Les +
+
+
+## Les - 
+
+---------
