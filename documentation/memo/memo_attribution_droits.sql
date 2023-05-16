@@ -1,3 +1,12 @@
+---
+title: attribution_droits
+layout: default
+nav_order: 3
+description: ""
+parent: sql
+---
+
+
 /***************************************************
 *   Droits   *
 ***************************************************/
