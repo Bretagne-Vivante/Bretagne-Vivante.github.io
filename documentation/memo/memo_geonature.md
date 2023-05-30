@@ -5,6 +5,7 @@ nav_order: 2
 description: "index"
 has_children: true
 has_toc: true
+parent: memo
 ---
 
 # memo geonature

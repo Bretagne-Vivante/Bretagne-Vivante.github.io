@@ -3,7 +3,7 @@ title: memo_date
 layout: default
 nav_order: 3
 description: ""
-parent: sql
+parent: memo
 ---
 
 
