@@ -1,5 +1,5 @@
 ---
-title: create_table
+title: memo_create_table
 layout: default
 nav_order: 3
 description: ""
