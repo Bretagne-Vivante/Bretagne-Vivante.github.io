@@ -21,13 +21,17 @@ Rentrer les identifiants que vous utilisez pour vous connecter au site geonature
 
 ## Astuces pour l'utilisation 
 
-Configurer l'observateur par défaut
-Configurer le jeu de données par défaut
-Filtrer le groupe taxonomique
+- Configurer l'observateur par défaut
+- Configurer le jeu de données par défaut
+- Filtrer le groupe taxonomique
 
 -------------
 
+# Memo administration
 ## Maj de l'apk
+```
+cd geonature/backend/media/mobile/occtax
 
 wget https://github.com/PnX-SI/gn_mobile_occtax/releases/download/x.y.z/occtax-y.y.z-generic-release.apk
 wget https://github.com/PnX-SI/gn_mobile_occtax/releases/download/2.6.1/occtax-2.6.1-generic-release.apk
+```
