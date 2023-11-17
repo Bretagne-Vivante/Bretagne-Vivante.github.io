@@ -1,9 +1,9 @@
 ---
-title: memo geonature
+title: installation_application_mobile
 layout: default
 nav_order: 2
-description: "Accueil Benevole"
-parent: geonature
+description: "installation_application_mobile"
+# parent: geonature
 ---
 
 # URL - Pour récupérer l'apk Android
