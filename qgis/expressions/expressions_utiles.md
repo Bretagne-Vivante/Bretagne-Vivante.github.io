@@ -21,7 +21,10 @@ geometry()
 
 ## Expressions
 
+### Filter parent relation
 
+
+### aggregate
 aggregate(layer:='v_entites_ora_externe', aggregate:='max', expression:="nom", filter:=intersects( $geometry, geometry(@parent) ) )
 
 

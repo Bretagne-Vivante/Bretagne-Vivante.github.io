@@ -110,3 +110,21 @@ UsersHub : sudo systemctl start usershub
 geonature sensitivity refresh-rules-cache
 geonature sensitivity update-synthese
 ```
+
+
+## admin BDD -> voir l'ensemble des vues et 
+### Functions
+SELECT proname, prosrc
+FROM pg_proc
+WHERE pronamespace = 'public'::regnamespace; -- Remplacez 'public' par le schéma où se trouvent vos fonctions
+
+### Vues
+SELECT viewname, definition
+FROM pg_views
+WHERE schemaname = 'public'; -- Remplacez 'public' par le schéma où se trouvent vos vues
+
+### Vues Matérialisées
+SELECT matviewname, definition
+FROM pg_matviews
+WHERE schemaname = 'public';
+
