@@ -7,8 +7,6 @@ description: "Accueil Benevole"
 ---
 # Présentation
 
-Bonjour,
-
 Bretagne Vivante a fait le choix de se doter de l'outil libre GeoNature pour la gestion de ses données naturalistes, qu'elles proviennent de SERENA, de Faune Bretagne ou d'autres fichiers épars. 
 
 Fin 2024, l'outil de saisie de données SERENA cessera d'être géré par RNF et sera voué de fait à disparaître petit à petit dans les années qui suivront. 
@@ -56,8 +54,9 @@ si la demande est faite un week-end le compte sera validé le lundi.
 
 ### Aller sur le module OccTax
 
-erreur -> pas de groupe par défaut pour l'application
-Via l'interface  Erreur durant la validation de l'utilisateur temporaire 
+Via le menu, aller sur l'onglet OccTax.
+
+
 ## Utilisation de occtax via votre mobile
 
 Voir [ tuto installation_application_mobile](https://bretagne-vivante.github.io/geonature/installation_application_mobile.html)

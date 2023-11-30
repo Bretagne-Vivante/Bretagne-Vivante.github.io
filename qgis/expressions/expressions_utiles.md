@@ -5,11 +5,15 @@ nav_order: 3
 description: ""
 has_children: true
 has_toc: true
+parent: qgis
 ---
 
 TODO :
 
  - [x] Ajouter fichier a mettre dans 
+
+## Documentation
+https://docs.3liz.org/formation-qgis-expressions/
 
 
 ## Variables

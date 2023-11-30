@@ -7,13 +7,13 @@ parent: memo
 ---
 
 
--- Variables utiles 
+## Variables utiles 
 select current_timestamp
 select current_date
 select now()
 
 
--- Create table default
+## Create table default
 created_at timestamp DEFAULT current_timestamp,
 date  DATE NOT NULL DEFAULT CURRENT_DATE,
 jour int not NULL DEFAULT extract(DAY from current_date),

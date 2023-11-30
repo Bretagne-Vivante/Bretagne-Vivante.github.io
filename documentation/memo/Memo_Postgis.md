@@ -7,9 +7,9 @@ parent: memo
 ---
 
 /***************************************************
-*   MEMO Functions Postgis  *
+##   MEMO Functions Postgis  *
 ***************************************************/
-
+```
 -- Générer automatiquement la surface d'un geom + geom 4326
 -- min v13 postgres
 
@@ -32,12 +32,12 @@ ST_SRID(geom),
 ST_GeometryType(geom),
 ST_IsValid(geom),
 ST_IsValidReason(geom),
-
+```
 
 /***************************************************
-*   Functions Postgis infos geom   *
+##  Functions Postgis infos geom   *
 ***************************************************/
-
+```
 ----------
 -- Détection du SRID
 integer ST_SRID(geometry g1);
@@ -48,12 +48,12 @@ integer ST_SRID(geometry g1);
 ----------
 -- Détection de type de geom
 ST_GeometryType(geometry g1);
-
+```
 
 /***************************************************
-*   Correction du geom  *
+##   Correction du geom  *
 ***************************************************/
-
+```
 ST_IsValid
 ST_IsValidReason
 ST_IsValidDetail
@@ -75,7 +75,7 @@ ST_MakeValid
 
 ----------
 -- Exemple
-SELECT   id	 ,ST_IsValidReason(geom), ST_IsValidDetail(geom)
+SELECT   id ,ST_IsValid(geom), ST_IsValidReason(geom), ST_IsValidDetail(geom)
 FROM ora_oncb.oncb_territoire
 where ST_IsValid (geom) is false
 
@@ -91,11 +91,12 @@ where ST_IsValid (geom) is false
 SELECT   id_pk	 ,geom, ST_MakeValid(st_buffer(geom,20)), ST_IsValidReason(ST_MakeValid(st_buffer(geom,0)))
 FROM ora_oncb.corr_territoire_oncb_V1_save
 where ST_IsValid (geom) is false
+```
 
 /***************************************************
-*   Functions Postgis transformation geom  *
+##   Functions Postgis transformation geom  *
 ***************************************************/
-
+```
 ----------
 -- Transformation du SRID
 geometry ST_Transform(geometry g1, integer srid);
@@ -120,12 +121,11 @@ ST_Point
 ST_Centroid
 
 ST_SetSRID( ST_MakePoint(3,4), 4326 ) -- explicit cast and srid
-
-
+```
 /***************************************************
-*   Croisement GEO  *
+##   Croisement GEO  *
 ***************************************************/
-
+```
 boolean ST_Contains(geometry geomA, geometry geomB);
 ST_Contains(geometry Grand, geometry Petit);
 
@@ -142,3 +142,20 @@ ST_Covers
 --
 
 ST_Touches
+
+```
+/***************************************************
+##   Croisement GEO  *
+***************************************************/
+```
+
+-- La surface d'un polygone
+round((ST_area(st_union(edi.geom))/1000)::numeric , 2) as superficie_km 
+--voir si round(sum(st_area(a.geom))) n'est pas plus rapide
+
+-- Le périmètre d'un polygone
+round((ST_Perimeter(st_union(edi.geom))/1000)::numeric , 2) as perimetre_km 
+
+
+
+```
