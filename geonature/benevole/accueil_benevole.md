@@ -26,19 +26,19 @@ https://geonature.bretagne-vivante.org/
 
 ## CAS 1 - Vous avez déjà un compte sur Faune Bretagne
 
-![image](../ressources/images/GeoNature_log_screen.png)
+![image](../../ressources/images/GeoNature_log_screen.png)
 
 Cliquer sur "Identifiant ou mot de passe oublié ?"
 et mettre l'adresse mail que vous avez utilisé pour votre inscription sur Faune Bretagne
 
-![image](../ressources/images/GeoNature_recup_mdp.png)
+![image](../../ressources/images/GeoNature_recup_mdp.png)
 
 ## CAS 2 - Vous n'avez pas de compte 
 
 ### Création d'un compte sur geonature via :
 https://geonature.bretagne-vivante.org/#/login/inscription
 
-![image](../ressources/images/GeoNature_creation_compte.png)
+![image](../../ressources/images/GeoNature_creation_compte.png)
 
 
 > merci de mettre votre adresse mail comme identifiant  
