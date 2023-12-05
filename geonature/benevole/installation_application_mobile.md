@@ -1,9 +1,8 @@
 ---
 title: installation_application_mobile
 layout: default
-nav_order: 2
 description: "installation_application_mobile"
-parent: benevole
+parent: geonature
 ---
 
 # [URL - Pour récupérer l'apk Android](https://geonature.bretagne-vivante.org/api/media/mobile/occtax/occtax-2.6.1-generic-release.apk)

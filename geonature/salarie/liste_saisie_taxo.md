@@ -2,6 +2,7 @@
 title: liste_saisie_taxo
 layout: default
 description: "Liste de saisie des taxo"
+parent: salarie
 ---
 # Liste de saisie des taxos
 Voir https://taxhub.bretagne-vivante.org/

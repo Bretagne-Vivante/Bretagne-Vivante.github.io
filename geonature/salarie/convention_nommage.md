@@ -2,6 +2,7 @@
 title: convention_nommage
 layout: default
 description: "Convention Nommage Métadonnées Geonature"
+parent: geonature
 ---
 # Convention Nommage Métadonnées 
 

@@ -1,7 +1,6 @@
 ---
 title: administration_compte_benevole
 layout: default
-nav_order: 3
 description: "administration UserHub Benevole"
 parent: salarie
 ---
@@ -19,4 +18,5 @@ Remarque = Utilisateur VisioNature
 Actif = False
 identifiant de connexion = adresse mail
 
-1) Le référent doit demander au bénévole de récupérer son 
+1) Le référent doit demander au bénévole de récupérer son compte geonature via la récupération de mot de passe
+
