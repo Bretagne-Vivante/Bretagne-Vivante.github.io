@@ -3,6 +3,7 @@ title: liste_saisie_taxo
 layout: default
 description: "Liste de saisie des taxo"
 parent: salarie
+grand_parent: geonature
 ---
 # Liste de saisie des taxos
 Voir https://taxhub.bretagne-vivante.org/

@@ -3,6 +3,7 @@ title: administration_compte_benevole
 layout: default
 description: "administration UserHub Benevole"
 parent: salarie
+grand_parent: geonature
 ---
 
 

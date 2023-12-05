@@ -3,6 +3,7 @@ title: accueil_benevole
 layout: default
 description: "Accueil Benevole"
 parent: benevole
+grand_parent: geonature
 ---
 # Présentation
 
