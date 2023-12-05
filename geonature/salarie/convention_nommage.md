@@ -3,7 +3,7 @@ title: convention_nommage
 layout: default
 nav_order: 2
 description: "Convention Nommage Métadonnées Geonature"
-parent: geonature
+parent: salarie
 ---
 # Convention Nommage Métadonnées 
 
