@@ -1,7 +1,7 @@
 ---
 title: liste_saisie_taxo
 layout: default
-nav_order: 2
+nav_order: 3
 description: "Liste de saisie des taxo"
 parent: salarie
 ---
