@@ -40,13 +40,19 @@ Le terme « données » est à éviter pour des raisons tautologiques. Le terme 
 
 ### CONSEILS à appliquer autant que possible :
 Il est conseillé de grouper en CA puis en JDD les données qui :
+
 • ont été acquises dans le même objectif (même programme, projet ou étude). On associe le ou les JDD(s) à un même CA ;
+
 • ont été financées/commandées par les mêmes structures (le cas échéant elles n’ont pas été financées) ;ou plusieurs structures se sont associées pour financer un même programme (ou ses déclinaisons). Onassocie le ou les JDD(s) à un même CA ;
+
 • ont été collectées selon le même protocole (plan d’échantillonnage, méthodes et techniques). On associe les données à un même JDD ;
+
 • possèdent le même profil de données. On associe les données à un même JDD
 
 ### ERREURS  éviter autant que possible :
+
 • La séparation selon une année ou une période de collecte de données (ou de publication des donnéesdans le cadre de données bibliographiques), si cette distinction n’est pas liée à un changement deprotocole ou à un changement de maîtrise d’ouvrage/d’œuvre ou d’opérateur.
+
 • La séparation des taxons qui sont observés selon un même protocole. Cette séparation (par exemple unJDD pour les Lycaenidae et un autre pour les Nymphalidae dans un suivi des papillons par unité detemps d’observation) fait perdre l’information de la présence d’une communauté d’espèce, et lapossibilité d’en déduire des absences.
 
 

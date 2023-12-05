@@ -21,7 +21,7 @@ Afin de vous lancer dans l'aventure, je vous invite à suivre la procédure suiv
 
 # Etapes pour se connecter
 
-### Url geonature BV
+### Url Geonature Bretagne Vivante
 https://geonature.bretagne-vivante.org/
 
 ## CAS 1 - Vous avez déjà un compte sur Faune Bretagne
@@ -30,8 +30,14 @@ https://geonature.bretagne-vivante.org/
 
 Cliquer sur "Identifiant ou mot de passe oublié ?"
 et mettre l'adresse mail que vous avez utilisé pour votre inscription sur Faune Bretagne
+> Votre identifiant est votre adresse mail
 
 ![image](../../ressources/images/GeoNature_recup_mdp.png)
+
+Vous basculez automatiquement dans l'organisme "Bénévoles Bretagne Vivante",
+afin de vous permettre d'accéder aux jeux de données ouverts à la saisie publique.
+
+Vous n'avez pas la possibilité de voir les observations ne vous appartenant pas. 
 
 ## CAS 2 - Vous n'avez pas de compte 
 
@@ -42,19 +48,39 @@ https://geonature.bretagne-vivante.org/#/login/inscription
 
 
 > merci de mettre votre adresse mail comme identifiant  
-Le champs organisme est en texte libre, 
-un référent vous ajoutera comme
 
 ### Attendre que la demande soit validée par un administrateur.
 La validation est manuelle donc merci de patienter, 
 si la demande est faite un week-end le compte sera validé le lundi. 
 
+## CAS 3 - Vous êtes un partenaire (associatif ou institutionnel) 
+Vous souhaitez récupérer ou saisir des données.
+Vous devez créer un compte.  
+votre adresse mail doit être votre adresse mail professionnelle, une vérification pourra être demandée afin d'éviter les usurpations d'identité.
 
-### Se connecter 
+Le champs organisme est en texte libre et donc a titre indicatif, 
+un référent vous associera manuellement avec votre organisme afin que vous ayez les droits hérités de votre organisme (export de vos données ou saisie d'observations).
 
+
+### Recommendations Mot de passe
+Il est conseillé d'utiliser un mot de passe sécurisé avec les caractéristiques suivantes :
+
+### Se connecter via la page de login
+https://geonature.bretagne-vivante.org/#/login
+
+## Export de données
+### Aller sur le module Synthese
+
+https://geonature.bretagne-vivante.org/#/synthese
+
+## Saisie de données
 ### Aller sur le module OccTax
 
 Via le menu, aller sur l'onglet OccTax.
+
+https://geonature.bretagne-vivante.org/#/occtax
+
+
 
 
 ## Utilisation de occtax via votre mobile
