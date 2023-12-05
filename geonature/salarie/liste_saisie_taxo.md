@@ -5,11 +5,14 @@ description: "Liste de saisie des taxo"
 parent: salarie
 grand_parent: geonature
 ---
-# Liste de saisie des taxos
-Voir https://taxhub.bretagne-vivante.org/
 
-Manuel utilisateur
+# TaxHub
+
+### Manuel utilisateur
 https://taxhub.readthedocs.io/fr/latest/manuel-utilisateur.html
+
+## Liste de saisie des taxos
+Voir https://taxhub.bretagne-vivante.org/
 
 ## Liste de saisie OccTax par défaut
 Lien Liste OccTax :
