@@ -70,8 +70,12 @@ https://geonature.bretagne-vivante.org/#/login
 
 ## Export de données
 ### Aller sur le module Synthese
+![image](../../ressources/images/geonature_synthese.png)
 
 https://geonature.bretagne-vivante.org/#/synthese
+
+### Manuel utilisateur synthese
+https://docs.geonature.fr/user-manual.html#synthese
 
 ## Saisie de données
 ### Aller sur le module OccTax
@@ -80,8 +84,8 @@ Via le menu, aller sur l'onglet OccTax.
 
 https://geonature.bretagne-vivante.org/#/occtax
 
-
-
+### Manuel utilisateur occtax
+https://docs.geonature.fr/user-manual.html#occtax
 
 ## Utilisation de occtax via votre mobile
 

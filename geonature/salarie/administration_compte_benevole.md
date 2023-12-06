@@ -21,3 +21,4 @@ identifiant de connexion = adresse mail
 
 1) Le référent doit demander au bénévole de récupérer son compte geonature via la récupération de mot de passe
 
+2) Créat

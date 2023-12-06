@@ -1,13 +1,16 @@
 ---
-title: sql
+title: R
 layout: default
-description: ""
+description: "index"
 has_children: true
 has_toc: true
 ---
-# SQL
+
+
+# R
 
 {:toc}
 
 ## Formation
+
 
