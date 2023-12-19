@@ -8,6 +8,9 @@ grand_parent: geonature
 # Création d'un JDD 
 
 
+Cadre d'acquisition = Pour Quoi ? Pour Qui ?
+JDD = Comment ? ou ? Quoi ?
+
 ### Pour les JDD :
 
 !!! respecter la convention de nommage !!!
@@ -30,4 +33,4 @@ rnr_groix_benevole
 
 ## Conseil de mise en pratique
 
-Associer 
+Associer l'organisme avec un role (en priorité les financeurs)

@@ -9,4 +9,4 @@ has_toc: true
 
 # FAQ
 
-
+Liste des questions courantes, les réponses seront étoffés au fil du temps et des demandes.
