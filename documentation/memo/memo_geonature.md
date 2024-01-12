@@ -84,7 +84,10 @@ nano usershub/VERSION
 cd
 cd geonature/frontend
 
-npm run build
+npm run build -- obsolete
+
+geonature update-configuration
+
 ```
 ### Custom CSS
 ```

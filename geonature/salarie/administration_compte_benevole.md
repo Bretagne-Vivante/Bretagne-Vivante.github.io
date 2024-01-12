@@ -21,4 +21,6 @@ identifiant de connexion = adresse mail
 
 1) Le référent doit demander au bénévole de récupérer son compte geonature via la récupération de mot de passe
 
-2) Créat
+2) Création du mot de passe
+Le mot de passe n'a actuellement pas de contraintes 
+mais il est très fortement conseillé de créer un mdp d'au moins 8 caractères
