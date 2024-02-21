@@ -9,6 +9,11 @@ has_toc: true
 
 # R
 
+https://rstudio.bretagne-vivante.org/
+
+https://diffusion.bretagne-vivante.org/
+
+
 {:toc}
 
 ## Formation

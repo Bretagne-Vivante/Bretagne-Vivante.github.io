@@ -48,6 +48,12 @@ integer ST_SRID(geometry g1);
 ----------
 -- Détection de type de geom
 ST_GeometryType(geometry g1);
+
+--Compter le nombre d'observations par type de géometrie
+SELECT count(*), st_geometrytype(the_geom_4326)
+FROM gn_synthese.synthese s 
+GROUP BY st_geometrytype(the_geom_4326);
+
 ```
 
 /***************************************************
@@ -159,3 +165,4 @@ round((ST_Perimeter(st_union(edi.geom))/1000)::numeric , 2) as perimetre_km
 
 
 ```
+

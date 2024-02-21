@@ -17,11 +17,11 @@ https://docs.3liz.org/formation-qgis-expressions/
 
 
 ## Variables
-
+```
 $geometry
 @geometry
 geometry()
-
+```
 
 ## Expressions
 
@@ -29,6 +29,7 @@ geometry()
 
 
 ### aggregate
+```
 aggregate(layer:='v_entites_ora_externe', aggregate:='max', expression:="nom", filter:=intersects( $geometry, geometry(@parent) ) )
 
 
@@ -55,3 +56,4 @@ aggregate(
     expression:="num_plaque",
     filter:= "site" = attribute(@parent,'site')  
 ) 
+```

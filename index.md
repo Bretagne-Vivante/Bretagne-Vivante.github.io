@@ -4,7 +4,8 @@ layout: home
 nav_order: 1
 description: "index"
 ---
-# Documentation Bretagne Vivante ![logo bv](https://www.bretagne-vivante.org/wp-content/uploads/2022/06/logo_BV3-1.png)
+# ![logo bv](https://www.bretagne-vivante.org/wp-content/uploads/2022/06/logo_BV3-1.png)
+# Documentation Bretagne Vivante 
 
 Des mémos et tutos pour vous aider a prendre en main les outils 
 

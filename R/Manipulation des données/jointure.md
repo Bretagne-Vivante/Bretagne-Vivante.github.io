@@ -14,3 +14,5 @@ parent: R
 
 
 ## Variables
+
+df_merge <- merge(df_1, df_2, by.x="species_name", by.y="Nom", all.x=T)

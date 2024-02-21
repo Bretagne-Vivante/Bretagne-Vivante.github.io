@@ -25,6 +25,9 @@ Rentrer les identifiants que vous utilisez pour vous connecter au site geonature
 - Configurer le jeu de données par défaut
 - Filtrer le groupe taxonomique
 
+
+Tuto Occtax Youtube 
+https://youtu.be/1xGyzDRmgs0?si=2E_3gzt7VxNF8mz2
 -------------
 
 # Memo administration
